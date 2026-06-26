@@ -1,2 +1,17 @@
 # Numerical-Analysis
+- Barycentric Interpolation
+- Chebyshev Function
+- Companion Matrix and Wilkinson's Polynomial
+- Cubic Best Fit
+- Fixed Point Iteration and Tent Map
+- Fourier Series Approximation
+- Gaussian Approximation
+- Lagrange and Hermite Interpolation
+- Least Squares Approximation
+- Ill-conditioned Matrix Inversion
+- Multi dimensional Newtons Method
+- Newton and Secant Method
+- Polygamma
+- Sine Function and Quadratic Approximation
 - Taylor Approximation
+- Tridiagonal Matrix
